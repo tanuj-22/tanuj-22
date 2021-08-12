@@ -1,4 +1,4 @@
-- 👋 Hi, Tanuj Pancholi
+- 👋 Hi,I am Tanuj Pancholi
 - 👀 I’m interested in Web Development, Machine Learning and Cloud Computing
 - 🌱 I’m currently pursuing my bachelor's degree in Computer Engineering from PICT, PUNE
 <!--- - 💞️ I’m looking to collaborate on ...
