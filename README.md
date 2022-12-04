@@ -9,7 +9,7 @@
 tanuj-22/tanuj-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hey there! I'm Tanuj Pancholi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hey there! I'm Tanuj Pancholi </h1>
 
 
 ## About me :mortar_board:
