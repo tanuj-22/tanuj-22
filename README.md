@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hey there! I'm Tanuj Pancholi </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj022&label=Profile%20views&color=0e75b6&style=flat" alt="tanuj-22" /> </p>
 
  <table>
   <tr>
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Technologies I know :computer:
 
-<div align="center">
+<div align="left">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>  &nbsp;Connect with Me 🤝🏻</h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/tanuj-pancholi-ts-220869/"><img alt="LINKEDIN" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
  <a href="https://www.instagram.com/tanuj.pancholi/"><img alt="instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a> 
  <a href="mailto:pancholi.tanuj8@gmail.com"><img alt="email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
