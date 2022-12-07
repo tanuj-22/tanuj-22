@@ -1,22 +1,40 @@
-<!--- -
-- 👋 Hi,I am Tanuj Pancholi
-- 👀 I’m interested in Web Development, Machine Learning and Cloud Computing
-- 🌱 I’m currently pursuing my bachelor's degree in Computer Engineering from PICT, PUNE
- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  --->
+
 
 <!---
 tanuj-22/tanuj-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h1 align="center">Hey there! I'm Tanuj Pancholi </h1>
 
 
+ <table>
+  <tr>
+    <td valign="top"> <div>
+  
 ## About me :mortar_board:
 -  I'm a Full Stack Developer.
 -  Pursuing Computer Engineering from PICT,PUNE.
 - Keen to learn new things and implement projects to find solutions to problems.
-- 👀 I’m interested in Web Development, Machine Learning and Cloud Computing
+- I’m interested in Web Development, Blockchain Development, Machine Learning and Cloud Computing
+ </div></td>
+    <td valign="center"> <picture>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=tanuj-22&show_icons=true&theme=dark&count_private=true"
+/>
+ </picture></td>
+  </tr>
+</table>
+
+
+<div style="display:flex; flex-direction : row">
+
+ 
+ 
+
+ 
+ </div>
+
 
 ## Technologies I know :computer:
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
