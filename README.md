@@ -17,12 +17,13 @@ You can click the Preview link to take a look at your changes.
 -  Pursuing Computer Engineering from PICT,PUNE.
 - Keen to learn new things and implement projects to find solutions to problems.
 - I’m interested in Web Development, Blockchain Development, Machine Learning and Cloud Computing
- </div></td>
+ </div>
+<!-- 	  </td>
     <td valign="center"> <picture>
 <img 
   src="https://github-readme-stats.vercel.app/api?username=tanuj-22&show_icons=true&theme=dark&count_private=true"
 />
- </picture></td>
+ </picture></td> -->
   </tr>
 </table>
 
